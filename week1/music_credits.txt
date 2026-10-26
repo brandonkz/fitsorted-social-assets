@@ -1,0 +1,14 @@
+FitSorted week 1 (27 Oct - 2 Nov 2026) background music
+All tracks from Pixabay Music, Pixabay Content License (free for commercial use, no attribution required).
+Chosen tracks are NOT marked "Content ID Registered" on Pixabay (fewer copyright-claim risks).
+
+Day 1 (27 Oct) TikTok video        - "Amapiano vibez" by u_0f1b2suimm - https://pixabay.com/music/afrobeat-amapiano-vibez-208172/
+Day 2 (28 Oct) TikTok + IG Reel    - "Dance Upbeat Pop" by Kulakovka - https://pixabay.com/music/dance-dance-upbeat-pop-611603/
+Day 3 (29 Oct) TikTok + IG Reel    - "Funny Bouncy Cartoon Mischief" by alex-morgan - https://pixabay.com/music/cartoons-funny-bouncy-cartoon-mischief-578469/
+Day 4 (30 Oct) TikTok + IG Reel    - "Unlock Me | Amapiano Music" by kontraa - https://pixabay.com/music/upbeat-unlock-me-amapiano-music-149058/
+Day 5 (31 Oct) TikTok video        - "Long weekend" by SakhileRadebe2 - https://pixabay.com/music/afrobeat-long-weekend-169323/
+Day 6 (1 Nov)  TikTok + IG Reel    - "Dance Upbeat Pop" by Kulakovka - https://pixabay.com/music/dance-dance-upbeat-pop-611603/
+Day 7 (2 Nov)  TikTok + IG Reel    - "Lofi Chill Vlog Beats" by alex-morgan - https://pixabay.com/music/lofi-lofi-chill-vlog-beats-573883/
+
+Day 1 and Day 5 Instagram carousels: no music (unchanged).
+Mix: track trimmed to video length, 0.5s fade-in, 1s fade-out, loudnorm to -15 LUFS (TP -1.5 dBTP); video stream copied unchanged.
